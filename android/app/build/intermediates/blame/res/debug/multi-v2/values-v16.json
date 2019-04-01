@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/zapbuild/Documents/ReactNativeProjects/Notes/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/zapbuild/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/21cf98f12a5948a06247439d64f0b143/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/zapbuild/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a401d8042b238114d584f0857c1d349f/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
